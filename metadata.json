@@ -1,0 +1,5 @@
+{
+  "name": "ball.io",
+  "description": "An upgraded Agar.io clone with beautiful UI, bot difficulties, and Supabase real-time multiplayer.",
+  "requestFramePermissions": []
+}
